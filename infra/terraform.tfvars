@@ -1,2 +1,2 @@
-cloudflare_account_id = "e577d53705718821e54be0a2346719a3" # Change this to your Cloudflare account ID
-project_name          = "typstart"  # Change this to your project name
+cloudflare_account_id = "bc1705123d34010875ebef82a6050d72" # Change this to your Cloudflare account ID
+project_name          = "my-document"  # Change this to your project name

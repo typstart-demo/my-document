@@ -18,7 +18,7 @@ variable "project_name" {
   default     = "typstart"
 }
 
-resource "cloudflare_pages_project" "typstart" {
+resource "cloudflare_pages_project" "my-project" {
   production_branch = "master"
   name              = var.project_name
   account_id        = var.cloudflare_account_id
